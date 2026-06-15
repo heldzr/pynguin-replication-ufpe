@@ -1,0 +1,83 @@
+# =====================================================================
+# SCRIPT DE REPLICAÇÃO DO PYNGUIN (HELDIR - PÓS-GRADUAÇÃO)
+# CONFIGURAÇÃO: 90 MÓDULOS | 5 ALGORITMOS | 3 REPETIÇÕES | 60s TIMEOUT
+# =====================================================================
+
+Write-Host "=== INICIANDO CONFIGURAÇÃO DO AMBIENTE ===" -ForegroundColor Cyan
+
+# 1. Criar a estrutura unificada de pastas no seu disco C:
+New-Item -ItemType Directory -Force -Path "C:\trabalho_pynguin\dataset\the_algorithms"
+New-Item -ItemType Directory -Force -Path "C:\trabalho_pynguin\dataset\validators"
+New-Item -ItemType Directory -Force -Path "C:\trabalho_pynguin\resultados"
+
+# 2. Baixar módulos selecionados do TheAlgorithms
+$alg_url = "https://raw.githubusercontent.com/TheAlgorithms/Python/master"
+$alg_modules = @(
+    "ciphers/caesar.py", "ciphers/vigenere.py", "ciphers/rsa_cipher.py",
+    "searches/binary_search.py", "searches/linear_search.py", "searches/quick_select.py",
+    "sorts/bubble_sort.py", "sorts/quick_sort.py", "sorts/merge_sort.py", "sorts/insertion_sort.py",
+    "maths/prime_check.py", "maths/fibonacci.py", "maths/factorial.py", "maths/gcd.py",
+    "data_structures/stacks/stack.py", "data_structures/queues/queue.py", "strings/is_palindrome.py"
+)
+
+Write-Host "Baixando módulos do TheAlgorithms..." -ForegroundColor Cyan
+foreach ($mod in $alg_modules) {
+    $filename = Split-Path $mod -Leaf
+    Invoke-WebRequest -Uri "$alg_url/$mod" -OutFile "C:\trabalho_pynguin\dataset\the_algorithms\$filename" -UseBasicParsing
+}
+
+# 3. Baixar módulos da biblioteca Validators
+$val_url = "https://raw.githubusercontent.com/python-validators/validators/master/validators"
+$val_modules = @(
+    "email.py", "url.py", "ip_address.py", "card.py", "domain.py", 
+    "iban.py", "mac_address.py", "slug.py", "uuid.py", "length.py"
+)
+
+Write-Host "Baixando módulos do Validators..." -ForegroundColor Cyan
+foreach ($mod in $val_modules) {
+    Invoke-WebRequest -Uri "$val_url/$mod" -OutFile "C:\trabalho_pynguin\dataset\validators\$mod" -UseBasicParsing
+}
+
+Write-Host "Downloads concluídos com sucesso! Iniciando processamento no Docker..." -ForegroundColor Green
+
+# 4. Configuração dos parâmetros do PYNGUIN (Baseado no artigo de referência)
+$algoritmos = @("DynaMOSA", "MIO", "MOSA", "WholeSuite", "Random")
+$repeticoes = 1..3
+
+# --- EXECUÇÃO 1: THE ALGORITHMS ---
+$arquivos_alg = Get-ChildItem "C:\trabalho_pynguin\dataset\the_algorithms\*.py" | Select-Object -ExpandProperty BaseName
+
+foreach ($modulo in $arquivos_alg) {
+    foreach ($alg in $algoritmos) {
+        foreach ($rep in $repeticoes) {
+            Write-Host "=== Processando: [TheAlgorithms] Módulo: $modulo | Algoritmo: $alg | Repetição: $rep ===" -ForegroundColor Yellow
+            
+            docker run --rm -v C:\trabalho_pynguin:/project -e PYNGUIN_DANGER_AWARE=true se2p/pynguin `
+                --project-path /project/dataset/the_algorithms `
+                --output-path /project/resultados/run_${alg}_rep${rep}_${modulo} `
+                --module-name $modulo `
+                --algorithm $alg `
+                --max-search-time 60
+        }
+    }
+}
+
+# --- EXECUÇÃO 2: VALIDATORS ---
+$arquivos_val = Get-ChildItem "C:\trabalho_pynguin\dataset\validators\*.py" | Select-Object -ExpandProperty BaseName
+
+foreach ($modulo in $arquivos_val) {
+    foreach ($alg in $algoritmos) {
+        foreach ($rep in $repeticoes) {
+            Write-Host "=== Processando: [Validators] Módulo: $modulo | Algoritmo: $alg | Repetição: $rep ===" -ForegroundColor Magenta
+            
+            docker run --rm -v C:\trabalho_pynguin:/project -e PYNGUIN_DANGER_AWARE=true se2p/pynguin `
+                --project-path /project/dataset/validators `
+                --output-path /project/resultados/run_${alg}_rep${rep}_${modulo} `
+                --module-name $modulo `
+                --algorithm $alg `
+                --max-search-time 60
+        }
+    }
+}
+
+Write-Host "FIM DA EXECUÇÃO! Relatórios consolidados em C:\trabalho_pynguin\resultados" -ForegroundColor Green
