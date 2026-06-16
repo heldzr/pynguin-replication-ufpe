@@ -1,3 +1,7 @@
+# Apresentação de Slides:
+
+Link para a apresentação: https://docs.google.com/presentation/d/1quWzqdb0tpzzbKynGRfhMFbWANKof9JZmhBoxkCkgx0/edit?slide=id.g3ec1ec978cb_1_287#slide=id.g3ec1ec978cb_1_287
+
 # Replicação Pynguin 
 
 Este repositório contém o arcabouço metodológico e todos os dados resultantes da replicação empírica do framework Pynguin, avaliando a eficácia dos algoritmos DynaMOSA, MOSA, MIO, Whole Suite e Random sob pressão paramétrica escalável.
