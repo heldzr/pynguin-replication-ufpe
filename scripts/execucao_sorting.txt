@@ -1,0 +1,1350 @@
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_1 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_1')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_10 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_10')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_13 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_13')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.6190476190476191)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_16 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_16')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.6190476190476191)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.9047619047619048)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_19 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_19')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.6190476190476191)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_22 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_22')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.6190476190476191)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_25 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_25')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.6190476190476191)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.6190476190476191)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.7142857142857143)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_28 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_28')
+Coverage: OutputVariable(name='Coverage', value=0.2857142857142857)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_4 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_4')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=0.9523809523809523)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=1.0)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=0.8571428571428571)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=0.8571428571428571)
+=== [EXECUÇÃO] [Sorting] bubble_sort_7 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='bubble_sort_7')
+Coverage: OutputVariable(name='Coverage', value=0.8571428571428571)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_11 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_11')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_14 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_14')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_17 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_17')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_2 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_2')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.6956521739130435)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_20 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_20')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_23 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_23')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.6956521739130435)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.8695652173913043)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.8695652173913043)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.8695652173913043)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.8695652173913043)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_26 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_26')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.8695652173913043)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_29 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_29')
+Coverage: OutputVariable(name='Coverage', value=0.2608695652173913)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.782608695652174)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.782608695652174)
+=== [EXECUÇÃO] [Sorting] insertion_sort_5 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_5')
+Coverage: OutputVariable(name='Coverage', value=0.782608695652174)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.9130434782608695)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.782608695652174)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.782608695652174)
+=== [EXECUÇÃO] [Sorting] insertion_sort_8 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='insertion_sort_8')
+Coverage: OutputVariable(name='Coverage', value=0.782608695652174)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_12 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_12')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_15 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_15')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_18 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_18')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.8421052631578947)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_21 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_21')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_24 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_24')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.8421052631578947)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_27 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_27')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_3 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_3')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.8947368421052632)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_30 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_30')
+Coverage: OutputVariable(name='Coverage', value=0.3157894736842105)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.7894736842105263)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.7894736842105263)
+=== [EXECUÇÃO] [Sorting] selection_sort_6 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_6')
+Coverage: OutputVariable(name='Coverage', value=0.7894736842105263)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: DYNAMOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: DYNAMOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: DYNAMOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: MOSA | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: MOSA | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: MOSA | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: MIO | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: MIO | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: MIO | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: WHOLE_SUITE | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: WHOLE_SUITE | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: WHOLE_SUITE | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.9473684210526315)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: RANDOM | Rep: 1 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.7894736842105263)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: RANDOM | Rep: 2 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.7894736842105263)
+=== [EXECUÇÃO] [Sorting] selection_sort_9 | Alg: RANDOM | Rep: 3 (300s) ===
+TargetModule: OutputVariable(name='TargetModule', value='selection_sort_9')
+Coverage: OutputVariable(name='Coverage', value=0.7894736842105263)
