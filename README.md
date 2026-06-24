@@ -1,6 +1,6 @@
 # Apresentação de Slides:
 
-Link para a apresentação: https://docs.google.com/presentation/d/1quWzqdb0tpzzbKynGRfhMFbWANKof9JZmhBoxkCkgx0/edit?slide=id.g3ec1ec978cb_1_287#slide=id.g3ec1ec978cb_1_287
+Link para a apresentação: https://docs.google.com/presentation/d/1quWzqdb0tpzzbKynGRfhMFbWANKof9JZmhBoxkCkgx0/edit?usp=sharing
 
 # Replicação do Framework Pynguin
 
